@@ -9,7 +9,7 @@
 
 ---
 [Baltimore Crime Map using R](/Baltimore Crime Map using R)
-<img src="Baltimore Crime Map.png?raw=true"/>
+<img src="images/Baltimore Crime Map.png?raw=true"/>
 
 
 
