@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Together We Rise 🏳️‍🌈"
+title                    : "Storyteller"
 title_separator          : "-"
-name                     : &name "Neil Shen"
-description              : &description "The Best People in Life Are Free. 🏳️‍🌈"
-url                      : https://neilshen9747.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pin Li"
+description              : &description "If you gonna start sometime why not now"
+url                      : https://pin-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "neilshen9747/neilshen9747.github.io"
+repository               : "Pin-Li/Pin-Li.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruiling (Neil) Shen"
+  name             : "PIN LI"
   avatar           : "Neil Venti.JPG"
-  bio              : "The Best People in Life Are Free 🏳️‍🌈"
+  bio              : "If you gonna start sometime why not now"
   location         : "Rochester, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "ruiling.shen@simon.rochester.edu"
+  email            : "pinli0206@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "neilshen9747"
+  github           : "pin-li"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ruiling-shen"
+  linkedin         : "lpin"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
